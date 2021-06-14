@@ -6,7 +6,7 @@ tags: [go]
 comments: true
 ---
 
-I am sure some of you remember the good old days where snakes were the only game in our smartphones. In this series I will implement a Snake clone using GoLang. I want to have a nerdy version, so instead of having a graphical UI I will use bash terminal as UI.
+I am sure some of you remember the good old days where snakes were the only game in our smartphones. In this serie I will implement a Snake clone using GoLang. I want to have a nerdy version, so instead of having a graphical UI I will use bash terminal as UI.
 
 ## Let’s get started
 
